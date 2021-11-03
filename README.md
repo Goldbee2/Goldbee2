@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3>My Technologies:</h3>
+
 ![HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_)
 <!--
 **Goldbee2/Goldbee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
