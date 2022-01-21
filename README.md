@@ -1,5 +1,7 @@
 [![Eli Goldberg,  ](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20&title=Eli%20Goldberg)](https://pimp-my-readme.webapp.io)
 
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2)](https://github.com/goldbee2/)
+
 <h3>My Technologies:</h3>
 
 ![HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_)
