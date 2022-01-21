@@ -6,7 +6,7 @@
 
 ![HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_Python_Java_ReactJS_MySQL_JavaScript_)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Goldbee2&margin-w=5&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&margin-w=5&theme=radical"/>
 
 
 <!--
