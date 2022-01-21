@@ -1,6 +1,6 @@
 [![Eli Goldberg,  ](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20&title=Eli%20Goldberg)](https://pimp-my-readme.webapp.io)
 
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2&count_private=true)](https://github.com/goldbee2/)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2&count_private=true&show_icons=true)](https://github.com/goldbee2/)
 
 <h3>My Technologies:</h3>
 
