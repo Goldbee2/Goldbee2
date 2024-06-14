@@ -1,6 +1,6 @@
 # Eli Goldberg
 
-<h2>Computer Science student currently seeking SDE opportunities</h2>
+<h2>Software developer at [Traffigram](https://traffigram.com)</h2>
 
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/goldbee2/)
 
