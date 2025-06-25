@@ -1,6 +1,5 @@
 # Eli Goldberg
-
-# Founding Engineer at [Viata](https://Viata.ai/)
+## Founding Engineer at [Viata](https://Viata.ai/)
 
 <!--
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/goldbee2/)
