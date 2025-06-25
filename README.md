@@ -2,8 +2,9 @@
 
 # Founding Engineer at [Viata](https://Viata.ai/)
 
+<!--
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldbee2&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/goldbee2/)
-
+-->
 <img src="https://github-profile-trophy.vercel.app/?username=goldbee2&margin-w=5&theme=radical"/>
 
 
